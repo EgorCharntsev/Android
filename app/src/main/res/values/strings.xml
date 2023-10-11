@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HomeWork</string>
+    <string name="first_screen">ITIS First Homework</string>
+    <string name="enter_message">Enter message</string>
+    <string name="go_to_third_screen">Go to Third Screen</string>
+    <string name="second_screen">Second screen</string>
+    <string name="go_to_first_screen">Go to First Screen</string>
+    <string name="third_screen">Third Screen</string>
 </resources>
