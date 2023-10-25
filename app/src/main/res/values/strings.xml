@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HomeWork</string>
+    <string name="str_start_fragment_message">Welcome to Start screen\nof our application!</string>
+    <string name="str_start_fragment_info">If you would like to take a survey,\nplease enter your information:</string>
+    <string name="str_start_fragment_phone_number">Enter your phone number</string>
+    <string name="str_start_fragment_questions">Enter the number of questions</string>
+    <string name="str_start_fragment_enter">Enter</string>
 </resources>
