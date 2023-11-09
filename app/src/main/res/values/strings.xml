@@ -2,7 +2,11 @@
     <string name="app_name">HomeWork</string>
     <string name="str_start_fragment_message">Welcome to Start screen\nof our application!</string>
     <string name="str_start_fragment_info">If you would like to take a survey,\nplease enter your information:</string>
-    <string name="str_start_fragment_phone_number">Enter your phone number</string>
-    <string name="str_start_fragment_questions">Enter the number of questions</string>
+    <string name="str_start_fragment_phone_number">Phone number</string>
+    <string name="str_start_fragment_questions">Number of questions</string>
     <string name="str_start_fragment_enter">Enter</string>
+    <string name="str_question_item_answer">Standard answer</string>
+    <string name="str_view_pager_fragment_finish">Finish survey</string>
+    <string name="str_view_pager_fragment_standard_question">Standard question</string>
+    <string name="number_of_question">Number of question</string>
 </resources>

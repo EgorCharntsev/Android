@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>Do you enjoy spending time alone?</item>
+        <item>Are you open to trying new experiences?</item>
+        <item>Do you find it easy to express your emotions?</item>
+        <item>Are you a good listener?</item>
+        <item>Do you often experience feelings of anxiety?</item>
+        <item>Are you easily influenced by other people\'s opinions?</item>
+        <item>Do you believe in the power of positive thinking?</item>
+        <item>Are you good at managing your time?</item>
+        <item>Do you believe in the existence of fate or destiny?</item>
+        <item>Are you comfortable with taking risks?</item>
+        <item>Do you find it easy to forgive others?</item>
+        <item>Are you a good judge of character?</item>
+        <item>Do you trust your intuition?</item>
+        <item>Are you comfortable with giving and receiving feedback?</item>
+        <item>Do you believe in the concept of soulmates?</item>
+        <item>Are you a good problem solver?</item>
+        <item>Are you comfortable confronting others when necessary?</item>
+        <item>Do you have a strong sense of self-confidence?</item>
+        <item>Are you able to handle stress effectively?</item>
+        <item>Do you believe that people can change for the better?</item>
+    </string-array>
+    
+    <string-array name="answers">
+        <item>Yes</item>
+        <item>Rather yes than no.</item>
+        <item>I don\'t know.</item>
+        <item>Rather no than yes.</item>
+        <item>No.</item>
+    </string-array>
+
+</resources>

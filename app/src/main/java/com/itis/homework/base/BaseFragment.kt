@@ -1,7 +1,8 @@
 package com.itis.homework.base
 
+import androidx.annotation.LayoutRes
 import androidx.fragment.app.Fragment
 
-class BaseFragment : Fragment() {
+abstract class BaseFragment(@LayoutRes layout: Int) : Fragment() {
 
 }
