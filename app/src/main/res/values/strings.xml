@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">HomeWork</string>
+    <string name="start_title">Welcome to Start Screen!</string>
+    <string name="start_desc">Please, enter the number of items on the next screen.</string>
+    <string name="start_et_desc">Number of items</string>
+    <string name="start_btn">Go to next screen!</string>
+    <string name="item_song_title">Title for song item</string>
+    <string name="songs_fragment_absence">There is no information about any songs here.</string>
+    <string name="button_du_add">Add new songs</string>
+    <string name="date_divider">Some date</string>
+    <string name="song_id">ID:</string>
+    <string name="song_name">NAME:</string>
+    <string name="song_album">ALBUM:</string>
+    <string name="song_author">AUTHOR:</string>
 </resources>

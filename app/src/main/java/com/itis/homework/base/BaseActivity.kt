@@ -1,7 +1,7 @@
 package com.itis.homework.base
 
 import androidx.appcompat.app.AppCompatActivity
-import com.itis.homework.util.ActionType
+import com.itis.homework.utils.ActionType
 
 abstract class BaseActivity : AppCompatActivity() {
 
