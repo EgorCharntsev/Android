@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.itis.homework.ui.StartFragment"
+        android:label="StartFragment"
+        tools:layout="@layout/fragment_start"/>
+
+    <fragment
+        android:id="@+id/notificationFragment"
+        android:name="com.itis.homework.ui.NotificationFragment"
+        android:label="NotificationFragment"
+        tools:layout="@layout/fragment_notification"/>
+
+    <fragment
+        android:id="@+id/coroutineFragment"
+        android:name="com.itis.homework.ui.CoroutineFragment"
+        android:label="CoroutineFragment"
+        tools:layout="@layout/fragment_coroutine"/>
+
+
+
+
+
+</navigation>

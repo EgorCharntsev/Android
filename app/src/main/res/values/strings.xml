@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HomeWork</string>
+    <string name="str_title">Title</string>
+    <string name="str_show_notification">Show notification</string>
+    <string name="str_text">Text</string>
+    <string name="str_start_page">Home</string>
+    <string name="str_notification_settings">Notifications</string>
+    <string name="str_coroutines_settings">Coroutines</string>
 </resources>
