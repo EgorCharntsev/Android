@@ -1,9 +1,33 @@
 <resources>
     <string name="app_name">HomeWork</string>
     <string name="str_title">Title</string>
+    <string name="str_message_error">The maximum character value has been exceeded!</string>`
+    <string name="str_message_error_null">The field cannot be empty!</string>
     <string name="str_show_notification">Show notification</string>
     <string name="str_text">Text</string>
     <string name="str_start_page">Home</string>
     <string name="str_notification_settings">Notifications</string>
     <string name="str_coroutines_settings">Coroutines</string>
+    <string name="str_importance">Importance</string>
+    <string name="str_visibility">Visibility</string>
+    <string name="str_big_text">Big text</string>
+    <string name="str_actions">Actions</string>
+    <string name="str_default_channel_id">DEFAULT_NOTIFICATION_CHANNEL_ID</string>
+    <string name="str_action">action</string>
+    <string name="str_send_message">Send message</string>
+    <string name="str_message">Message is here!</string>
+    <string name="str_open_settings">Open settings</string>
+    <string name="str_async">Async</string>
+    <string name="str_stop_on_background">Stop on background</string>
+    <string name="str_start_coroutines">Start coroutines</string>
+    <string name="str_title_coroutines">The result of the work</string>
+    <string name="str_finish_coroutines">All coroutines have completed their work!</string>
+    <string name="str_cancel_coroutines">Unfinished coroutines have been cancelled!</string>
+    <string name="str_successful_given_permission">You have given permission to send notifications!</string>
+    <string name="str_accept">Accept!</string>
+    <string name="str_settings">Go to settings!</string>
+    <string name="str_denied_notifications">You have denied permission to send notifications!</string>
+    <string name="str_denied_notifications_two">You have denied permission to send notifications too many times!\nGo to settings and grant this permission.</string>
+    <string name="str_denied_message">Give the app permission to send notifications so you can use the app.</string>
+
 </resources>
